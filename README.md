@@ -3,7 +3,7 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 
 ## Lista dos cursos
 - Trabalhando com Web Componenets no Front-end ✅
-- TypeScript para Angular
+- TypeScript para Angular ✅
 - Introdução ao Ecossistema Angular
 - Trabalhando com Componentes Angular
 - LifeCycle Hooks Angular
