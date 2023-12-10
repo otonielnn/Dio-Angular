@@ -5,8 +5,8 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 - Trabalhando com Web Componenets no Front-end ✅
 - TypeScript para Angular ✅
 - Introdução ao Ecossistema Angular ✅
-- Trabalhando com Componentes Angular
-- LifeCycle Hooks Angular
+- Trabalhando com Componentes Angular ✅
+- LifeCycle Hooks Angular ✅
 - Single Page Application com Angular
 - Módulos Angular
 - Criando um Blog com Angular
