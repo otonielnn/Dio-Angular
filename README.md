@@ -7,9 +7,11 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 - Introdução ao Ecossistema Angular ✅
 - Trabalhando com Componentes Angular ✅
 - LifeCycle Hooks Angular ✅
-- Single Page Application com Angular
+- Single Page Application com Angular ✅
 - Módulos Angular
-- Criando um Blog com Angular
 - Trabalhando com Rotas no Angular
 - Trabalhando com Services no Angular
+
+## Projetos
 - Criando um clone do BuzzFeed com Angular
+- Criando um Blog com Angular
