@@ -8,7 +8,7 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 - Trabalhando com Componentes Angular ✅
 - LifeCycle Hooks Angular ✅
 - Single Page Application com Angular ✅
-- Módulos Angular
+- Módulos Angular ✅
 - Trabalhando com Rotas no Angular
 - Trabalhando com Services no Angular
 
