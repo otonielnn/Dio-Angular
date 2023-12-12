@@ -13,5 +13,5 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 - Trabalhando com Services no Angular
 
 ## Projetos
-- Criando um clone do BuzzFeed com Angular
-- Criando um Blog com Angular
+- [Criando um Blog com Angular](https://github.com/otonielnn/angular-blog) ✅
+- [Criando um clone do BuzzFeed com Angular]()
