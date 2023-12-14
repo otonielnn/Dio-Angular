@@ -10,7 +10,7 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 - Single Page Application com Angular ✅
 - Módulos Angular ✅
 - Trabalhando com Rotas no Angular ✅
-- Trabalhando com Services no Angular
+- Trabalhando com Services no Angular ✅
 
 ## Projetos
 - [Criando um Blog com Angular](https://github.com/otonielnn/angular-blog) ✅
