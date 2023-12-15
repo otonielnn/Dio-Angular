@@ -14,4 +14,4 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 
 ## Projetos
 - [Criando um Blog com Angular](https://github.com/otonielnn/angular-blog) ✅
-- [Criando um clone do BuzzFeed com Angular]()
+- [Criando um clone do BuzzFeed com Angular](https://github.com/otonielnn/angular-buzzfeed-quiz)✅
