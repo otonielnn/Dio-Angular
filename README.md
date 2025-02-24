@@ -11,6 +11,7 @@ Estudos de angular na plataforma [DIO](web.dio.me).
 - Módulos Angular ✅
 - Trabalhando com Rotas no Angular ✅
 - Trabalhando com Services no Angular ✅
+- Introdução ao Angular 17+ ✅
 
 ## Projetos
 - [Criando um Blog com Angular](https://github.com/otonielnn/angular-blog) ✅
